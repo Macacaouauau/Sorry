@@ -87,8 +87,8 @@ p {
   transform: scale(0.95);
   
   #customImage {
-  width: 100%;
-  max-width: 300px; /* Limita a largura da imagem para 300px, você pode ajustar esse valor */
+  width: 50%;
+  max-width: 100px; /* Limita a largura da imagem para 300px, você pode ajustar esse valor */
   border: 2px solid #000; /* Borda preta de 2px, você pode mudar a cor e a espessura */
   border-radius: 10px; /* Adiciona borda arredondada, se quiser */
   display: block; /* Faz a imagem ser um bloco e centraliza ela */
